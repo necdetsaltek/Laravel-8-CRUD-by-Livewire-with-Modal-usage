@@ -1,6 +1,7 @@
 # Laravel-8-CRUD-by-Livewire-with-Modal-usage
-LARAVEL 8 CRUD Operations by using Livewire and Using Modal 
-this repository is updated for laravel 8 from below link that is originals so Laravel 7
+LARAVEL 8 CRUD Operations by using Livewire and Using Modal .
+
+This repository is updated for laravel 8 from below link that is originals so Laravel 7
 
 
 For laravel 7 
